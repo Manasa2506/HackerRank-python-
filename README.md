@@ -1,2 +1,2 @@
 # HackerRank-python-
-HackerRank questions (medium)
+HackerRank questions (medium) 
